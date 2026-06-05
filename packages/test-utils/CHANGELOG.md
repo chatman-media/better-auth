@@ -1,5 +1,13 @@
 # @better-auth/test-utils
 
+## 1.6.15
+
+### Patch Changes
+
+- Updated dependencies [[`1012b69`](https://github.com/better-auth/better-auth/commit/1012b690466ccd7078441dbfb406eef166fca805), [`ad60333`](https://github.com/better-auth/better-auth/commit/ad60333d1517142d688c61b6ccee14b4c30864ae), [`0933c05`](https://github.com/better-auth/better-auth/commit/0933c050ff8735466a273347c9aab0fdd8cd38ff)]:
+  - better-auth@1.6.15
+  - @better-auth/core@1.6.15
+
 ## 1.6.14
 
 ### Patch Changes
