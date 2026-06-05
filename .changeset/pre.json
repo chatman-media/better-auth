@@ -51,6 +51,7 @@
     "oauth-additional-params",
     "oauth-granted-scopes-architecture",
     "oauth-idp-initiated-bounce",
+    "oauth-idtoken-verifier",
     "oauth-provider-at-hash",
     "oauth-provider-token-refactor",
     "pr-8926",
